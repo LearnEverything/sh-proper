@@ -1,0 +1,53 @@
+{
+  "name": "LearnEverything",
+  "slug": "learn-everything",
+  "description": "As If",
+  "website": "https://github.com/LearnEverything",
+  "zones": [
+    {
+      "name": "clickClack",
+      "address": "<--"
+    },
+    {
+      "name": "kleinGarden",
+      "address": "<--"
+    },
+    {
+      "name": "learnEverythingProper",
+      "address": "<--"
+    },
+    {
+      "name": "tower",
+      "address": "<--"
+    }
+  ],
+  "owner": {
+    "type": "user",
+    "profile": "g@neobii"
+  },
+  "interfaces": {
+    "manifold": {
+      "inputs": [
+        {
+          "address": "#clickClack -> #tower",
+          "description": "I guess I'm an input",
+          "line": "^#clickClack"
+        },
+        {
+          "address": "#kleinGarden -> #tower",
+          "description": "Another Input",
+          "line": "^#kleinGarden -> #tower"
+        }
+      ],
+      "outputs": [
+        {
+          "address": "[^tower] => ^good-cause"
+        }
+      ],
+      "line": [
+        "~tower1 --> g@Shielkwamm#castle" 
+      ]
+      }
+    }
+  }
+}
