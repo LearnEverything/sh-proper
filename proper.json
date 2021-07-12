@@ -3,6 +3,7 @@
   "slug": "learn-everything",
   "description": "As If",
   "website": "https://github.com/LearnEverything",
+  "glyphs": ["🎈","🎈","🎈","🎈"],
   "zones": [
     {
       "name": "clickClack",
@@ -47,7 +48,14 @@
       "line": [
         "~tower1 --> g@Shielkwamm#castle" 
       ]
-      }
     }
+   },
+  "colorScheme": {
+    "1": "#D1215A",
+    "2": "#AE7CBC",
+    "3": "#D78598",
+    "4": "#7B106E",
+    "background": "#121212",
+    "foreground": "#FFF"
   }
 }
