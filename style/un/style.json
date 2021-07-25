@@ -1,0 +1,22 @@
+{
+  "colors": [
+    {"name": "Ninja Turtle Green", "slug": "ninja-turtle-green", "hex": "#A18A3C"},
+    {"name": "Old Smelly Purple", "slug": "old-smelly-purple", "hex": "#696176"},
+    {"name": "Burnt Red", "slug": "burnt-red", "hex": "#9F0940"},
+    {"name": "Sandal Wood Hell", "slug": "sandal-wood-hell", "hex": "#F2790F"},
+    {"name": "Mauveish", "slug": "mauveish", "hex": "#3D2D41"},
+    {"name": "Standard White", "slug": "standard-white", "hex": "#FFFFFF"}
+  ],
+  "fonts": [
+    {
+      "name": "Zen Tokyo Zoo", 
+      "src": "https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap",
+      "family": "'Zen Tokyo Zoo', cursive"
+    },
+    {
+      "name": "Fuggles",
+      "src": "https://fonts.googleapis.com/css2?family=Fuggles&display=swap",
+      "family": "'Fuggles', cursive"
+    }
+  ]
+}
